@@ -424,6 +424,7 @@
 - [Periplus](https://periplus.app) — turns any topic, question, or PDF into a structured course with explanations, quizzes, and flashcards.
 - [Haptyk](https://haptyk.com) — velocity-sensitive mechanical keyboard sounds for MacBook, a Klack alternative for Mac.
 - [HomeByMe](https://home.by.me) — home design and planning tool.
+- [DebutPin](https://debutpin.com) — Free launch platform for indie makers to ship products, get voted, and collect permanent pins.
 
 ---
 
