@@ -87,6 +87,7 @@
 - [Textlab](https://textlab.javii.tools) — text animation mockup generator.
 - [Lummi](https://lummi.ai) — AI-generated images and illustrations.
 - [LogoAI](https://logoai.com) — AI-powered logo and brand identity generator.
+- [Namelix](https://namelix.com) — AI business name and logo generator.
 - [Genspark](https://genspark.ai) — all-in-one AI workspace that combines multiple models and tools to research, create, and automate tasks.
 - [PolishMe](https://polishme.ai) — AI tool for polishing and refining written text.
 - [v0](https://v0.app) — Vercel's AI tool for generating UI components and web apps from prompts.
@@ -123,6 +124,9 @@
 - [ASCII Art Archive](https://asciiart.eu/image-to-ascii) — image-to-ASCII converter and ASCII art collection.
 - [TinyWow](https://tinywow.com) — free tools for PDF, image, writing, and other tasks.
 - [JSON Crack](https://jsoncrack.com) — visualize JSON and YAML as interactive graphs.
+- [Efecto](https://efecto.app) — turn images into dither or ASCII art.
+- [ICQR Magic Tree](https://tree.icqr.com) — creative 3D QR code generator.
+- [Eraser](https://eraser.io) — create clean system design diagrams.
 - [DevDocs](https://devdocs.io) — searchable documentation for programming languages and APIs.
 - [Kaggle Learn](https://kaggle.com/learn) — interactive courses for Python, SQL, data science, and more.
 - [Pydle](https://pydle.net) — Wordle-style game for Python concepts.
@@ -191,6 +195,9 @@
 - [21st.dev](https://21st.dev) — community-driven React and Tailwind components.
 - [OriginKit](https://originkit.dev) — UI resources and components for modern web interfaces.
 - [Material Design 3](https://m3.material.io) — Google's open-source design system, guidelines, and components.
+- [React Native Components](https://reactnativecomponents.com) — ready-to-use React Native UI components.
+- [Liquid Glass](https://glass.samasante.com) — React library for Apple's Liquid Glass effect.
+- [Iconly](https://iconly.pro) — collection of flat, animated, and 3D icons.
 
 <h3 id="design-inspiration">Design Inspiration</h3>
 
@@ -216,6 +223,10 @@
 - [Pafolios](https://pafolios.com) — curated gallery of portfolio websites for inspiration.
 - [EZ Screenshots](https://ezscreenshots.com/app) — create polished app and website screenshots and device mockups.
 - [APPLORE](https://applore.app) — library of 18,000+ real App Store and Google Play app icons with every past version archived.
+- [Savee](https://savee.com) — visual inspiration boards for creatives.
+- [Adfolio](https://adfolio.design) — library of B2B ads for inspiration.
+- [Design Spells](https://designspells.com) — micro-interactions and small design details.
+- [Toolfolio](https://toolfolio.io) — curated tools and resources for designers.
 
 <h3 id="colors">Colors</h3>
 
@@ -239,12 +250,15 @@
 - [3dsvg](https://3dsvg.design) — turn SVG graphics into 3D animated visuals.
 - [60 FPS](https://60fps.design) — resource for learning smooth, high-performance web animations.
 - [Unicorn Studio](https://unicorn.studio) — create WebGL motion and interactions without code.
+- [SSGOI](https://ssgoi.dev) — JavaScript library for app-like page transitions.
+- [WithAnimation](https://withanimation.app) — SwiftUI animations and components to copy.
 
 <h3 id="fonts--typography">Fonts & Typography</h3>
 
 > Tools for finding and pairing typefaces.
 
 - [Fontjoy](https://fontjoy.com) — generate font pairings using machine learning.
+- [Typeface](https://typeface.fyi) — discover typefaces and fonts.
 
 <h3 id="design-tools">Design Tools</h3>
 
@@ -280,6 +294,7 @@
 - [OpenLearn](https://open.edu) — free courses from The Open University.
 - [Class Central](https://classcentral.com) — search engine and aggregator for online courses and MOOCs.
 - [Skill-Lync Free Resources](https://resources.skill-lync.com) — engineering resources covering design, CAE, EV technology, and CFD.
+- [Hacking with Swift](https://www.hackingwithswift.com) — free iOS development courses, including 100 Days of SwiftUI.
 
 ---
 
@@ -340,6 +355,14 @@
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) — animated Fluent-style emoji set.
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) — icons for showcasing skills and technology stacks in READMEs.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — CLI agent framework for building and running AI-driven command-line tools.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) — no-code scraper that turns websites into APIs.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) — visual website builder.
+- [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) — voice-to-text desktop app.
+- [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) — visual builder for sites and apps.
+- [inovector/mixpost](https://github.com/inovector/mixpost) — self-hosted social media manager.
+- [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) — macOS screenshot and recording app.
+- [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) — AI video editor with chat-based editing.
+- [coollabsio/shoutrrr](https://github.com/coollabsio/shoutrrr) — self-hosted social media scheduler.
 
 ---
 
@@ -400,6 +423,7 @@
 - [iFixit](https://ifixit.com) — free repair guides and teardown documentation for electronics and devices.
 - [Periplus](https://periplus.app) — turns any topic, question, or PDF into a structured course with explanations, quizzes, and flashcards.
 - [Haptyk](https://haptyk.com) — velocity-sensitive mechanical keyboard sounds for MacBook, a Klack alternative for Mac.
+- [HomeByMe](https://home.by.me) — home design and planning tool.
 
 ---
 
