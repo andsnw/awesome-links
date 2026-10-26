@@ -215,6 +215,7 @@
 - [Islands](https://islands.study) — curated visual resource for discovering websites and design.
 - [Pafolios](https://pafolios.com) — curated gallery of portfolio websites for inspiration.
 - [EZ Screenshots](https://ezscreenshots.com/app) — create polished app and website screenshots and device mockups.
+- [APPLORE](https://applore.app) — library of 18,000+ real App Store and Google Play app icons with every past version archived.
 
 <h3 id="colors">Colors</h3>
 
