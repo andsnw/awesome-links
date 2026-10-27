@@ -450,7 +450,7 @@
 
 <p align="center">
   <a href="https://github.com/nikomarinovic/awesome-links/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=nikomarinovic/awesome-links&max=100&columns=10&v=2" alt="Contributors" />
+    <img src="https://contrib.rocks/image?repo=nikomarinovic/awesome-links&max=20&columns=10&v=2" alt="Contributors" />
   </a>
 </p>
 
