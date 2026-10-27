@@ -1,0 +1,46 @@
+name: Report a Broken Link
+description: Report a broken, unavailable, or redirected link in Awesome Links.
+title: "Broken link: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a link that no longer works?
+        Share the link and where it appears so we can fix it.
+
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      description: What is the name of the resource?
+      placeholder: e.g. Visual Studio Code
+    validations:
+      required: true
+
+  - type: input
+    id: resource_url
+    attributes:
+      label: Broken URL
+      description: Provide the URL that is broken or unavailable.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: input
+    id: readme_location
+    attributes:
+      label: Location in the README
+      description: Which category or section contains this link?
+      placeholder: e.g. Developer Utilities
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_details
+    attributes:
+      label: What happens when you open the link?
+      description: Describe the problem, such as a 404, timeout, or unexpected redirect.
+      placeholder: The page returns a 404 error.
+    validations:
+      required: true
