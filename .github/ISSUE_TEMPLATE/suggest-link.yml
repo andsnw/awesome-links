@@ -1,0 +1,64 @@
+name: Suggest a Link
+description: Suggest a useful tool, resource, or repository for Awesome Links.
+title: "Link suggestion: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Know something worth adding to Awesome Links?
+        Share a useful resource with the community.
+
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      description: What is the name of the tool, resource, or project?
+      placeholder: e.g. Visual Studio Code
+    validations:
+      required: true
+
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      description: Provide a direct link to the resource.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category best fits this resource?
+      options:
+        - "AI"
+        - "Developer"
+        - "Developer Utilities"
+        - "APIs & Backend"
+        - "Maps"
+        - "Testing & Prototyping"
+        - "UI & Design"
+        - "UI Components"
+        - "Design Inspiration"
+        - "Colors"
+        - "Animation & Motion"
+        - "Fonts & Typography"
+        - "Design Tools"
+        - "Learning & Documentation"
+        - "Certificates"
+        - "Repositories"
+        - "Apps"
+        - "Miscellaneous"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Why should it be included?
+      description: Explain briefly what makes this resource useful.
+      placeholder: What does it do, and why is it worth adding?
+    validations:
+      required: true
