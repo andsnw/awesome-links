@@ -18,7 +18,7 @@
   Help grow the collection by sharing a useful tool, resource, or repository.
 </p>
 <p align="center">
-  <a href="https://github.com/nikomarinovic/awesome-links/issues/new"><strong>Suggest a Link</strong></a>
+  <a href="https://github.com/nikomarinovic/awesome-links/issues/new?template=suggest-link.yml"><strong>Suggest a Link</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/nikomarinovic/awesome-links/compare"><strong>Contribute</strong></a>
 </p>
