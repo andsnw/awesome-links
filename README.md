@@ -10,8 +10,7 @@
   <strong>TOOLS · RESOURCES · INSPIRATION</strong>
 </p>
 <p align="center">
-  A curated collection of useful tools, resources, repositories,<br>
-  products, and inspiration for developers, designers &amp; builders.
+  A curated collection of tools, resources, repositories,<br>and inspiration for developers, designers, and builders.
 </p>
 <br>
 <p align="center">
